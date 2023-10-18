@@ -1,0 +1,7 @@
+Mars Exploration
+Time Complexity: O(n) 
+Space Complexity: O(n)
+
+Two Strings
+Time Complexity: O(n^2) I did a iterative approach with a nested for loop.
+Space Complexity: O(n) Space is directly affected by the input size.
